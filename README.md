@@ -15,8 +15,8 @@ Built with [LangChain](https://www.langchain.com/) / LangGraph agents, OpenAI's 
 ## Project layout
 
 ```
-personal_chef/
-├── src/personal_chef/
+
+|__src/personal_chef/
 │   ├── text_flow.py         # text-only ingredient → recipes flow
 │   ├── multimodal_flow.py   # image-based fridge → recipes flow
 │   └── tools.py             # Tavily web_search tool
