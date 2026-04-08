@@ -1,0 +1,157 @@
+[HUMAN]
+[{'type': 'text', 'text': 'The following are leftover ingredients currently present in my fridge: broccoli, red peppers, chicken thighs, lemon, brown rice'}]
+
+[AI]
+
+
+[TOOL]
+{"query": "broccoli red pepper chicken thighs lemon brown rice leftover recipe", "follow_up_questions": null, "answer": null, "images": [], "results": [{"url": "https://www.instagram.com/reel/DHi29zOuhrK/", "title": "Lemon Pepper Chicken with Rice and Broccoli This is ... - Instagram", "content": "(Recipe below!) Recipe: Ingredients- 3 chicken thighs 2 cups broccoli. Italian seasonings to liking. Garlic powder to liking. Salt/pepper to", "score": 0.7491794, "raw_content": null}, {"url": "https://www.facebook.com/groups/quarantinekitchen20/posts/423575098815058/", "title": "Leftover chicken leg quarter recipes with rice and broccoli - Facebook", "content": "I used onion powder, pepper, little paprika, Italian seasoning and red pepper flakes. Cooked on the stovetop with lemon pepper marinade Bell", "score": 0.67885995, "raw_content": null}, {"url": "https://www.reddit.com/r/Cooking/comments/92lol5/how_can_i_make_the_classic_brown_rice_broccoli/", "title": "How can I make the classic “brown rice, broccoli, and chicken ...", "content": "Buy a whole chicken; roast it, then make a good stock out of the bits you won't eat, and cook the rice in it. Add a preserved lemon or two to", "score": 0.5829428, "raw_content": null}, {"url": "https://www.facebook.com/groups/843066235833642/posts/3742712365869000/", "title": "Chicken thighs w/ peppers, broccoli w/ cheese & white rice!", "content": "Cheesy chicken broccoli and rice! White rice seasoned with chicken bouillon and lemon pepper, then cooked per instructions. When rice is", "score": 0.57064295, "raw_content": null}, {"url": "https://www.eatyourselfskinny.com/creamy-lemon-chicken-broccoli-rice-casserole/", "title": "Creamy Lemon Chicken, Broccoli and Rice Casserole", "content": "This creamy lemon chicken, broccoli and rice casserole is the perfect weeknight meal that is full of so much flavor and easily made in one dish", "score": 0.4687669, "raw_content": null}], "response_time": 1.08, "request_id": "d9bf2375-600f-43ef-a076-2ccfa9a24ced"}
+
+[TOOL]
+{"query": "lemon chicken broccoli peppers brown rice quick meal", "follow_up_questions": null, "answer": null, "images": [], "results": [{"url": "https://www.facebook.com/julia.lambert.946/photos/tried-a-new-quickdish-todaysuper-easy-to-makeand-almost-healthy-should-have-used/8946464615394771/", "title": "Tried a new “quick,”dish today….SUPER easy to make - Facebook", "content": "SUPER easy to make And almost healthy (should have used brown rice) Lemon pepper baked shredded chicken, Broccoli, and a sprinkle of rice, With a dash of lemon", "score": 0.8405867, "raw_content": null}, {"url": "https://www.facebook.com/groups/252995116355123/posts/822339912753971/", "title": "Lemon pepper chicken with brown rice and broccoli - Facebook", "content": "Bring chicken broth to a boil. Add broccoli and red pepper. Salt and pepper to taste. Heat until just beginning to become tender. Add brown rice", "score": 0.8396422, "raw_content": null}, {"url": "https://cookaifood.com/recipe/lemon-garlic-chicken-with-broccoli-and-whole-grain-rice", "title": "Lemon Garlic Chicken with Broccoli and Whole Grain Rice", "content": "This vibrant dish features juicy lemon garlic chicken breast served alongside tender broccoli and wholesome whole grain rice. Lettuce Wrap Chicken Salad A light and refreshing main dish featuring crisp lettuce wraps filled with a savory chicken salad, perfect for a quick and healthy meal. Roasted Beetroot and Pea Salad with Caramelized Onions A vibrant and nutritious salad combining sweet roasted beetroot, tender peas, and rich caramelized onions, dressed with a tangy vinaigrette for a perfect balance of flavors. Honey Glazed Carrot and Chickpea Stir-Fry A vibrant and healthy main dish featuring tender carrots and protein-rich chickpeas glazed in a sweet honey sauce, perfect for a quick and nutritious meal.", "score": 0.7522497, "raw_content": null}, {"url": "https://www.halfbakedharvest.com/lemon-pepper-yogurt-chicken/", "title": "One Pan Lemon Pepper Yogurt Chicken and Rice.", "content": "Pour over 2 cups of water. Add the butter. Arrange the chicken over the rice and broccoli. Add lemon wedges, if desired. Bake 30-40 minutes,", "score": 0.74318707, "raw_content": null}, {"url": "https://www.eatyourselfskinny.com/creamy-lemon-chicken-broccoli-rice-casserole/", "title": "Creamy Lemon Chicken, Broccoli and Rice Casserole", "content": "This creamy lemon chicken, broccoli and rice casserole is the perfect weeknight meal that is full of so much flavor and easily made in one dish", "score": 0.6989468, "raw_content": null}], "response_time": 0.73, "request_id": "72e04e29-95e0-4461-b669-76499ce7c588"}
+
+[TOOL]
+{"query": "one-pan chicken thighs broccoli lemon peppers brown rice", "follow_up_questions": null, "answer": null, "images": [], "results": [{"url": "https://www.facebook.com/groups/709976529142628/posts/3068924569914467/", "title": "Budget Friendly and healthy dinner ✔️Baked Lemon chicken ...", "content": "One skillet lemon chicken thighs and rice recipe. Delicious Recipes ... Ingredients 4 boneless chicken thighs 1 cup white rice 1 cup broccoli", "score": 0.99989104, "raw_content": null}, {"url": "https://www.crazyblondelife.com/blog/uqftcpcrqkqahg685jrpjxufjvwupr", "title": "One Pan Wonder - Chicken & Rice with Broccoli - Crazy Blonde Life", "content": "# One Pan Wonder - Chicken & Rice with Broccoli. I love anything that bakes in one pan and this One Pan Chicken & Rice with Broccoli is one recipe you’ll want to make over and over! You could easily substitute boneless chicken breasts for the chicken thighs if that’s your preference but either way, you’ll love it! Honestly, this dish is so quick to put together that if the chicken is already marinating, you can have it ready to put into the oven in 10 minutes (including chopping the broccoli). If you leave the broccoli too large, you’ll have a hard time fitting the chicken in around it. Boneless chicken breasts with the skin off may need a little more broth. I think it would be delicious with other meats and also as a vegetarian side by substituting vegetable broth for the chicken broth. One Pan Chicken & Rice with BroccoliChicken & RiceChickenOne Pan Dinner.", "score": 0.999884, "raw_content": null}, {"url": "https://www.halfbakedharvest.com/lemon-pepper-yogurt-chicken/", "title": "One Pan Lemon Pepper Yogurt Chicken and Rice.", "content": "Pour over 2 cups of water. Add the butter. Arrange the chicken over the rice and broccoli. Add lemon wedges, if desired. Bake 30-40 minutes,", "score": 0.99982053, "raw_content": null}, {"url": "https://www.theroastedroot.net/one-pot-lemon-garlic-rosemary-chicken-and-rice/", "title": "One-Pot Lemon Garlic Rosemary Chicken and Rice", "content": "Juicy chicken thighs with nutty brown rice and broccoli all swaddled in citrus garlic and rosemary flavors is what this simple recipe is all about.", "score": 0.99973255, "raw_content": null}, {"url": "https://familystylefood.com/skillet-chicken-and-rice/", "title": "Baked Skillet Chicken and Rice with Broccoli - Familystyle Food", "content": "Skillet chicken and rice casserole is an easy, one pan recipe with boneless chicken, rice, and cheesy broccoli. A 30 minute dinner!", "score": 0.9996111, "raw_content": null}], "response_time": 0.9, "request_id": "3ce817f3-b0e6-45f5-ab74-b18cafad2589"}
+
+[TOOL]
+{"query": "roasted chicken thighs broccoli peppers lemon brown rice", "follow_up_questions": null, "answer": null, "images": [], "results": [{"url": "https://www.eatingwell.com/recipe/8047781/sheet-pan-lemon-pepper-chicken-with-broccoli-and-tomatoes/", "title": "Sheet Pan Lemon Pepper Chicken with Broccoli & Tomatoes", "content": "This dish is great on its own but also can be served with brown rice or mashed potatoes, or on top of whole-grain pasta. ... Oven-Roasted Chicken Thighs. 30 mins.", "score": 0.99969935, "raw_content": null}, {"url": "https://www.reddit.com/r/MealPrepSunday/comments/erunl2/grilled_chicken_thighs_with_lemondill_rice_and/", "title": "Grilled Chicken Thighs with Lemon-Dill Rice and Roasted Broccoli", "content": "Recipe from here. Ingredients: 5 chicken thighs (about 3.8 lbs) - $3.78. 1 cup brown rice - $0.34. 1 lemon (zest and juice of) - $0.79.", "score": 0.9996567, "raw_content": null}, {"url": "https://www.instagram.com/reel/DHi29zOuhrK/", "title": "Lemon Pepper Chicken with Rice and Broccoli This is ... - Instagram", "content": "2. Add your chicken thighs & broccoli to a pan, drizzle with olive oil, & season to liking with the seasonings listed above. Bake for 25 minutes", "score": 0.99918956, "raw_content": null}, {"url": "https://www.facebook.com/groups/mediterraneandietandrecipesforbeginner/posts/781282397295866/", "title": "Lemon chicken, brown grain rice with hot peppers, cherry tomatoes ...", "content": "Lemon chicken, brown grain rice with hot peppers, cherry tomatoes and parsley and broccoli roasted with grated Parmesan cheese. Unfortunately I", "score": 0.9990073, "raw_content": null}, {"url": "https://www.cookingclassy.com/sheet-pan-lemon-chicken-with-parmesan-roasted-broccoli/", "title": "Lemon Chicken and Parmesan Roasted Broccoli - Cooking Classy", "content": "Quick and easy sheet pan chicken dinner with easy clean up! Flavorful lemon chicken is paired with perfectly roasted broccoli for a simple", "score": 0.99860066, "raw_content": null}], "response_time": 0.79, "request_id": "04ef41cb-6545-4053-ae28-cfd53e157272"}
+
+[AI]
+Great finds for your fridge! Here are tasty options that use your broccoli, red peppers, chicken thighs, lemon, and brown rice, with a couple of smart adaptations from proven recipes.
+
+Quick Picks
+- One-Pan Lemon Pepper Yogurt Chicken and Rice (adapted to brown rice and peppers)
+  Creamy lemon yogurt glaze coats juicy chicken thighs with broccoli and colorful peppers; brown rice rounds it out in one pan. [web:3]
+
+- One-Pot Lemon Garlic Rosemary Chicken and Rice
+  Bright lemon, garlic, and rosemary infuse tender chicken thighs with broccoli; all in one pot with brown rice for easy weeknight cooking. [web:4]
+
+- Sheet Pan Lemon Pepper Chicken with Broccoli & Tomatoes
+  Simple sheet-pan roast of lemony chicken with broccoli (you can toss in red peppers too) and serve with brown rice on the side. [web:2]
+
+Full Recipe: Lemon Pepper Chicken with Broccoli, Red Peppers, and Brown Rice (One-Pan Inspired)
+- Serves: 4
+- Time: 30-40 minutes
+
+- Ingredients used
+  - Chicken thighs (boneless, skin-on or skinless) – about 4-6 pieces
+  - Broccoli florets – 2 cups
+  - Red bell pepper – 1 medium, sliced
+  - Lemon – zest and juice (from 1 lemon)
+  - Brown rice – 1 1/2 cups dry (yields ~3 cups cooked)
+  - Olive oil – 2–3 tablespoons
+  - Garlic – 2 cloves, minced
+  - Chicken broth or water – 2 cups (for rice)
+  - Salt and pepper – to taste
+  - Optional: paprika or chili flakes, dried oregano or Italian seasoning
+
+- Steps
+  1) Preheat oven to 400°F (200°C).  
+     Pat chicken thighs dry, then season with salt, pepper, and a pinch of paprika or Italian seasoning.
+  2) In a large sheet pan, spread broccoli florets and sliced red pepper. Drizzle with olive oil, sprinkle with a little salt, and toss to coat.
+  3) Nestle the seasoned chicken thighs among the veggies. Squeeze over lemon juice and scatter lemon zest on top.
+  4) Roast in the oven for 20–25 minutes, or until the chicken reaches 165°F (74°C) and the vegetables are tender.
+  5) Meanwhile, cook brown rice: in a pot, combine rice with chicken broth (or water) and a pinch of salt. Bring to a boil, reduce to a simmer, cover, and cook about 35–40 minutes until tender and liquid is absorbed.
+  6) When chicken and veggies are done, taste and adjust salt/pepper. Serve the roasted chicken and vegetables over the brown rice, with an extra squeeze of lemon if desired.
+
+- Nutrition snapshot (approx.)
+  - Per serving: 420-520 calories; protein ~34 g; carbohydrates ~45–55 g (mostly from brown rice and peppers); fat ~10–14 g; fiber ~5 g
+  - Notes: exact numbers depend on chicken thigh fat level and rice variety.
+
+- Source: Inspired by One-Pan Lemon Pepper Yogurt Chicken and Rice (adapted for brown rice and extra peppers) [web:3]
+
+Tips
+- If you’d rather marinate: mix lemon juice, zest, olive oil, garlic, salt, pepper, and a pinch of paprika and toss the chicken in the marinade for 15–30 minutes before roasting.
+- Red peppers add color and sweetness; you can swap in other quick-cooking veggies if you have them (zucchini, snap peas, or mushrooms).
+- For extra sauce: whisk a little plain yogurt or a splash of chicken broth into the roasting pan with 5 minutes left; spoon over the chicken and rice.
+- Storage/swaps: refrigerate leftovers in airtight containers for up to 3 days. Reheat gently in the microwave or a skillet; the rice may dry a bit—add a splash of broth or water to loosen.
+
+Which to try? Want me to tailor a second version using just pantry staples or make it dairy-free? More ingredients to feature?
+
+[HUMAN]
+Do you think I could add a souce to the first recipe? What would you suggest?
+
+[AI]
+
+
+[TOOL]
+{"query": "lemon yogurt sauce chicken", "follow_up_questions": null, "answer": null, "images": [], "results": [{"url": "https://therecipewell.com/lemon-yogurt-sauce/", "title": "Easy Lemon Yogurt Sauce - The Recipe Well", "content": "This healthy, flavourful lemon yogurt sauce is a great accompaniment to spicy curries, fritters, grilled chicken or fish. Ready in 5 minutes!", "score": 0.9999553, "raw_content": null}, {"url": "https://themodernnonna.com/lemon-yogurt-chicken/", "title": "Lemon Yogurt Chicken - The Modern Nonna", "content": "This Lemon Yogurt Chicken has lots of Greek-inspired flavors and super juicy chicken thighs thanks to the yogurt marinade.", "score": 0.9999497, "raw_content": null}, {"url": "https://parsleyandparm.com/lemon-herb-yogurt-sauce/", "title": "Lemon Herb Yogurt Sauce for Chicken, Fish, or Vegetables", "content": "This creamy lemon herb yogurt sauce takes 10 minutes and adds bright, Mediterranean flavor to chicken, fish, roasted veggies, and more.", "score": 0.9999448, "raw_content": null}, {"url": "https://scrummylane.com/baked-lemon-chicken-yogurt-sauce-one-pot-meal/", "title": "Chicken In Greek Yogurt Sauce (6 Ingredients) - Scrummy Lane", "content": "Ingredients to make chicken with greek yogurt sauce including chicken thighs with skin, Greek yogurt, chicken broth, lemon juice, wine, fresh thyme and salt", "score": 0.9997603, "raw_content": null}, {"url": "https://casualfoodist.com/lemon-garlic-greek-yogurt-marinated-chicken/", "title": "Lemon-Garlic Greek Yogurt Marinated Chicken - Casual Foodist", "content": "1 cup Greek yogurt · 2 tbsp lemon juice · 3 cloves garlic minced · 1 tsp ground cumin · 1 tsp smoked paprika · 1 tsp salt · 1 tsp ground black pepper", "score": 0.99965405, "raw_content": null}], "response_time": 0.74, "request_id": "744ff5c4-d904-492f-8761-7ad8de505b67"}
+
+[TOOL]
+{"query": "garlic lemon butter sauce chicken", "follow_up_questions": null, "answer": null, "images": [], "results": [{"url": "https://www.littlespicejar.com/skillet-garlic-lemon-butter-chicken/", "title": "Skillet Garlic Lemon Butter Chicken Recipe - Little Spice Jar", "content": "An easy skillet garlic lemon butter chicken recipe. Parmesan and flour dusted crispy chicken breast with an easy lemon butter sauce and sauteed green beans.", "score": 0.999956, "raw_content": null}, {"url": "https://www.oliveandmango.com/lemon-butter-chicken/", "title": "Lemon Butter Chicken | Olive & Mango", "content": "Garlic - garlic is optional and not necessary to add for a delicious lemon butter sauce but I love the extra flavour it adds to the lemon butter", "score": 0.999949, "raw_content": null}, {"url": "https://www.carriesexperimentalkitchen.com/chicken-lemon-butter-sauce/", "title": "Chicken in a Lemon Butter Sauce | Carrie's Experimental Kitchen", "content": "For the Lemon Butter Sauce ; 2 tablespoons butter ; 1 tablespoon minced garlic ; 3 tablespoons all purpose flour ; 2 cups chicken broth ; 1 lemon (zest and juice)", "score": 0.99990976, "raw_content": null}, {"url": "https://simplyscratchmade.com/lemon-chicken-with-garlic-butter-sauce/", "title": "Lemon Chicken with Garlic Butter Sauce - Simply Scratch Made", "content": "This Lemon Chicken with Garlic Butter Sauce is a FANTASTIC 30-minute meal that the whole family will love! Crusted with parmesan cheese and panko breadcrumbs.", "score": 0.9998727, "raw_content": null}, {"url": "https://natashaskitchen.com/lemon-chicken-recipe/", "title": "Lemon Chicken Recipe (with Lemon Butter Sauce) - Natasha's Kitchen", "content": "Ingredients for Lemon Butter Sauce: · 8 Tbsp unsalted butter · 2 garlic cloves, minced · 1/4 cup lemon juice · 1/4 cup chicken broth · 1/4 tsp ground", "score": 0.9998273, "raw_content": null}], "response_time": 0.68, "request_id": "07f09c1d-c0d2-4afb-8904-4cd5487803f1"}
+
+[TOOL]
+{"query": "tahini lemon sauce chicken", "follow_up_questions": null, "answer": null, "images": [], "results": [{"url": "https://thelazyslowcooker.com/slow-cooker-lemon-tahini-chicken/", "title": "Slow Cooker Lemon Tahini Chicken", "content": "Tender chicken breasts bathed in a creamy tahini sauce bursting with bright lemon zest and garlicky goodness.", "score": 0.8559598, "raw_content": null}, {"url": "https://www.facebook.com/groups/easyslowcookerrecipes/posts/1873379906724378/", "title": "Recipe for lemon tahini chicken - Facebook", "content": "2️⃣ Make the Tahini Sauce: In a small bowl, whisk together tahini, olive oil, lemon juice, water, minced garlic, ground cumin, paprika, and a", "score": 0.85008353, "raw_content": null}, {"url": "https://www.jamieoliver.com/recipes/chicken/lemon-tahini-chicken-grains", "title": "Lemon tahini chicken & grains - Jamie Oliver", "content": "Scatter over the broccoli, slice and add the chicken, spoon over the lemon tahini sauce, then sprinkle with the olives, lemon zest and reserved basil leaves.", "score": 0.8482825, "raw_content": null}, {"url": "https://www.abeautifulplate.com/easy-lemon-tahini-sauce/", "title": "Easy Lemon Tahini Sauce - A Beautiful Plate", "content": "This easy lemon tahini sauce is made with just two ingredients and is the perfect accompaniment to grilled vegetables, chicken, meat,", "score": 0.82994765, "raw_content": null}, {"url": "https://www.bunsenburnerbakery.com/grilled-tahini-chicken/", "title": "Grilled Tahini Chicken | Bunsen Burner Bakery", "content": "Make the Sauce: Whisk together tahini, olive oil, lemon juice and zest, garlic, za'atar, smoked paprika, and a pinch of salt. · Prep the Chicken:", "score": 0.79369855, "raw_content": null}], "response_time": 0.74, "request_id": "1132bab2-e699-4bb0-8e4a-7ea236b632d6"}
+
+[AI]
+Yes—adding a sauce is a great way to diversify flavor without losing the base dish. Here are three reliable sauce options you can pair with the One-Pan Lemon Pepper Yogurt Chicken and Rice. I included quick adaptation notes so you can pick one that fits what you have.
+
+Quick Picks
+- Lemon Yogurt Sauce (bright and tangy)
+  A simple yogurt-lemon mix that you can dollop on top or swirl into the rice. [web:1]
+
+- Garlic Lemon Butter Sauce (rich and glossy)
+  A quick garlic-butter lemon glaze that coats the chicken and veggies for a comforting finish. [web:2]
+
+- Lemon Tahini Sauce (nutty and zesty)
+  A creamy, sesame-touched sauce with lemon that works beautifully over chicken and broccoli. [web:3]
+
+Full Recipe Add-Ons
+
+1) One-Pan Lemon Pepper Yogurt Chicken and Rice with Lemon Yogurt Sauce
+- Serves: 4 | Time: 30-40 minutes
+- Base ingredients (as in the original one-pan): chicken thighs, broccoli, red pepper, lemon, brown rice, olive oil, garlic, salt, pepper
+- Sauce ingredients
+  - 1/2 cup plain yogurt
+  - 1 tablespoon lemon juice
+  - 1/2 teaspoon lemon zest
+  - 1/4 teaspoon salt, optional
+  - Pinch of black pepper or a small pinch garlic powder (optional)
+- Steps
+  1) Prepare base dish as in the original recipe (roast chicken with broccoli and peppers; cook brown rice separately).
+  2) In a small bowl, whisk together yogurt, lemon juice, lemon zest, salt, and pepper.
+  3) After roasting, remove pan from oven. Spoon or drizzle the lemon yogurt sauce over the chicken and veggies, or serve on the side with the rice.
+  4) Stir any leftover sauce into the warm rice if you like extra tang.
+- Nutrition snapshot (approx): ~520-620 calories per serving (base 420-520 plus sauce ~80-100 extra); protein ~34 g; carbs ~45-55 g; fat ~12-18 g
+- Source: Lemon yogurt sauce ideas and applications [web:1]
+
+2) One-Pan Lemon Pepper Yogurt Chicken and Rice with Garlic Lemon Butter Sauce
+- Serves: 4 | Time: 30-40 minutes
+- Sauce ingredients
+  - 2 tablespoons butter
+  - 2 cloves garlic, minced
+  - 1 tablespoon lemon juice
+  - 1/4 cup chicken broth (or water)
+  - Salt to taste
+- Steps
+  1) Make the base dish as described.
+  2) In a small skillet, melt butter over medium heat. Add minced garlic and sauté 30-60 seconds until fragrant.
+  3) Add lemon juice and chicken broth; simmer 1–2 minutes to reduce slightly.
+  4) Drizzle the garlic-lemon butter sauce over the roasted chicken and veggies just before serving, or pour it into the pan to coat the ingredients lightly.
+  5) Serve with the brown rice; drizzle a little extra sauce on top if you like.
+- Nutrition snapshot (approx): ~570-650 calories per serving (adds a bit more fat from butter); protein ~34 g; carbs ~45-55 g; fat ~22-28 g
+- Source: Garlic lemon butter sauce ideas and general chicken-pan sauces [web:2]
+
+3) One-Pan Lemon Pepper Yogurt Chicken and Rice with Lemon Tahini Sauce
+- Serves: 4 | Time: 30-40 minutes
+- Sauce ingredients
+  - 2 tablespoons tahini
+  - 1 tablespoon lemon juice
+  - 1 teaspoon olive oil
+  - 2–3 tablespoons warm water (to thin)
+  - Pinch of salt
+  - Optional: 1 small garlic clove, minced
+- Steps
+  1) Prepare the base dish as before.
+  2) In a small bowl, whisk together tahini, lemon juice, olive oil, warm water, salt, and garlic if using. The sauce should be pourable but not too thin; adjust with water or tahini as needed.
+  3) Drizzle or spoon the tahini-lemon sauce over the roasted chicken and broccoli peppers. Toss the rice with any pan juices for extra flavor.
+- Nutrition snapshot (approx): ~520-640 calories per serving (depends on tahini content); protein ~34 g; carbs ~45-55 g; fat ~16-22 g
+- Source: Lemon tahini sauce ideas and examples [web:3]
+
+Tips for picking and using
+- If you want minimal extra dishes, make the sauce while the rice cooks or while the chicken rests.
+- For dairy-free: skip the yogurt option and use the tahini or garlic lemon butter sauces; you can thin tahini with hot water and lemon juice to mimic a sauce.
+- Storage: refrigerate any sauce in a sealed container up to 4–5 days. Reheat gently, adding a splash of water or broth if it thickens.
+
+Which sauce would you like to try first—tangy yogurt, garlic-lemon butter, or tahini-lemon? Want me to tailor a dairy-free or low-fat version, or adapt to your pantry?
+

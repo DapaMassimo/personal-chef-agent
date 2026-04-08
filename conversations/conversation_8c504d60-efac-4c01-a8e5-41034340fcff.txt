@@ -1,0 +1,136 @@
+[HUMAN]
+[{'type': 'text', 'text': 'The following are leftover ingredients currently present in my fridge: broccoli, red peppers, chicken thighs, lemon, brown rice'}]
+
+[AI]
+
+
+[TOOL]
+{"query": "broccoli red pepper chicken thighs lemon brown rice leftover recipe", "follow_up_questions": null, "answer": null, "images": [], "results": [{"url": "https://www.instagram.com/reel/DHi29zOuhrK/", "title": "Lemon Pepper Chicken with Rice and Broccoli ...", "content": "Served with broccoli rice, it's the perfect packed lunch or meal prep dinner. Serves 4. You'll need: 8 Boneless Skinless Chicken Thighs 1 tbsp", "score": 0.7135319, "raw_content": null}, {"url": "https://www.facebook.com/groups/quarantinekitchen20/posts/423575098815058/", "title": "Leftover chicken leg quarter recipes with rice and broccoli", "content": "I used onion powder, pepper, little paprika, Italian seasoning and red pepper flakes. Cooked on the stovetop with lemon pepper marinade Bell", "score": 0.7016523, "raw_content": null}, {"url": "https://www.facebook.com/groups/843066235833642/posts/3742712365869000/", "title": "Chicken thighs w/ peppers, broccoli w/ cheese & white rice!", "content": "Cheesy chicken broccoli and rice! White rice seasoned with chicken bouillon and lemon pepper, then cooked per instructions. When rice is", "score": 0.57064295, "raw_content": null}, {"url": "https://www.reddit.com/r/Cooking/comments/92lol5/how_can_i_make_the_classic_brown_rice_broccoli/", "title": "How can I make the classic “brown rice, broccoli, and ...", "content": "Buy a whole chicken; roast it, then make a good stock out of the bits you won't eat, and cook the rice in it. Add a preserved lemon or two to", "score": 0.5677694, "raw_content": null}, {"url": "https://www.eatyourselfskinny.com/creamy-lemon-chicken-broccoli-rice-casserole/", "title": "Creamy Lemon Chicken, Broccoli and Rice Casserole", "content": "This creamy lemon chicken, broccoli and rice casserole is the perfect weeknight meal that is full of so much flavor and easily made in one dish", "score": 0.46847504, "raw_content": null}], "response_time": 1.16, "request_id": "5f8bd662-cfb3-4aaf-aa5d-9587659a79ad"}
+
+[TOOL]
+{"query": "chicken thighs broccoli peppers lemon brown rice quick meal", "follow_up_questions": null, "answer": null, "images": [], "results": [{"url": "https://www.seriouseats.com/chicken-and-rice-with-broccoli-recipe", "title": "Chicken and Rice with Broccoli Recipe", "content": "# Chicken and Rice with Broccoli Recipe. The lemon is an essential ingredient, though, as it rounds out the dish (I also happen to love lemony chicken and rice). For this dish, I found myself with leftover rice and no chicken, so I quickly fried the rice and topped it with an egg and a heavy dosing of sambal. ## Chicken and Rice with Broccoli Recipe. Add chicken skin-side down and cook without moving until well browned, 6 to 7 minutes. 2. Reduce heat to medium, and add the onions, broccoli and a pinch of salt, stirring until softened, 2 to 3 minutes. Cover and cook until the rice and chicken are finished cooking, 15-20 minutes. One-Pot Sesame Chicken, Shiitake, and Brown Rice Recipe. Chicken Dinners: Skillet Chicken Rice-A-Roni with Green Beans. Glass Noodles with Chicken and Mushrooms Recipe. Stir-Fried Beef With Chinese Broccoli Recipe. One-Skillet Dinner: Chicken Spanakopita Pot Pie. Creamy Garlic Chicken Spanakopita Skillet Recipe. Bengali Rice Porridge With Lentils and Chicken Recipe. Turmeric-Coconut Chicken and Rice Recipe.", "score": 0.99968743, "raw_content": null}, {"url": "https://www.eatyourselfskinny.com/creamy-lemon-chicken-broccoli-rice-casserole/", "title": "Creamy Lemon Chicken, Broccoli and Rice Casserole", "content": "This creamy lemon chicken, broccoli and rice casserole is the perfect weeknight meal that is full of so much flavor and easily made in one dish", "score": 0.99916387, "raw_content": null}, {"url": "https://www.facebook.com/groups/709976529142628/posts/3068924569914467/", "title": "Budget Friendly and healthy dinner ✔️Baked Lemon ...", "content": "Budget Friendly and healthy dinner ✔️Baked Lemon chicken thighs ✔️Sautéed broccoli and green peppers , garnished with scallions.", "score": 0.99856746, "raw_content": null}, {"url": "https://jenneatsgoood.com/one-pot-lemony-chicken-thighs-and-rice/", "title": "Lemony Chicken Thighs and Rice", "content": "This one-pot lemony chicken thighs and rice is on the cover of “Don't Think About Dinner” for a reason and it's one I continue to make in my own kitchen", "score": 0.9983516, "raw_content": null}, {"url": "https://www.theroastedroot.net/one-pot-lemon-garlic-rosemary-chicken-and-rice/", "title": "One-Pot Lemon Garlic Rosemary Chicken and Rice", "content": "Juicy chicken thighs with nutty brown rice and broccoli all swaddled in citrus garlic and rosemary flavors is what this simple recipe is all about.", "score": 0.99758446, "raw_content": null}], "response_time": 0.86, "request_id": "7446c4c3-d0eb-4c96-b658-fa6edf0fd9fc"}
+
+[TOOL]
+{"query": "one-pan chicken broccoli peppers lemon brown rice", "follow_up_questions": null, "answer": null, "images": [], "results": [{"url": "https://www.halfbakedharvest.com/lemon-pepper-yogurt-chicken/", "title": "One Pan Lemon Pepper Yogurt Chicken and Rice.", "content": "Arrange the chicken over the rice and broccoli. Add lemon wedges, if desired. Bake 30-40 minutes, until the rice is fluffy and the chicken", "score": 0.99985456, "raw_content": null}, {"url": "https://www.facebook.com/groups/252995116355123/posts/822339912753971/", "title": "Lemon pepper chicken with brown rice and broccoli", "content": "Bring chicken broth to a boil. Add broccoli and red pepper. Salt and pepper to taste. Heat until just beginning to become tender. Add brown rice", "score": 0.99950445, "raw_content": null}, {"url": "https://www.eatyourselfskinny.com/creamy-lemon-chicken-broccoli-rice-casserole/", "title": "Creamy Lemon Chicken, Broccoli and Rice Casserole", "content": "This creamy lemon chicken, broccoli and rice casserole is the perfect weeknight meal that is full of so much flavor and easily made in one dish", "score": 0.9991374, "raw_content": null}, {"url": "https://simplehomeedit.com/recipe/one-pan-lemon-herb-chicken-rice-with-chicken-breast/", "title": "One-pan Lemon Herb Chicken Rice (with Chicken Breast!)", "content": "The chicken is first seasoned with onion and garlic powder, sweet paprika and thyme, then the rice is cooked in the same pan, beautifully", "score": 0.9982993, "raw_content": null}, {"url": "https://www.solin.stream/recipes/256930/sheet-pan-lemon-garlic-chicken-with-roasted-broccoli-and-brown-rice", "title": "Sheet Pan Lemon Garlic Chicken with Roasted Broccoli ...", "content": "Sheet Pan Lemon Garlic Chicken with Roasted Broccoli and Brown Rice. Sheet Pan Lemon Garlic Chicken with Roasted Broccoli and Brown Rice. Sheet Pan Lemon Garlic Chicken with Roasted Broccoli and Brown Rice. Savor the bright flavors of zesty lemon and aromatic garlic infused into tender chicken on a sheet pan, accompanied by perfectly roasted broccoli and a side of fluffy brown rice. Place the chicken breast, broccoli, and cooked brown rice (set aside) on a sheet pan. Sheet Pan Lemon Garlic Chicken with Roasted Broccoli and Brown Rice. Sheet Pan Lemon Garlic Chicken with Roasted Broccoli and Brown Rice. Sheet Pan Lemon Garlic Chicken with Roasted Broccoli and Brown Rice. Savor the bright flavors of zesty lemon and aromatic garlic infused into tender chicken on a sheet pan, accompanied by perfectly roasted broccoli and a side of fluffy brown rice. Place the chicken breast, broccoli, and cooked brown rice (set aside) on a sheet pan.", "score": 0.9980882, "raw_content": null}], "response_time": 0.79, "request_id": "7f5a498b-403c-4165-bfae-45183c7eadc3"}
+
+[AI]
+Great finds for your fridge! Here are tasty options that use your broccoli, red peppers, chicken thighs, lemon, and brown rice.
+
+Quick Picks
+- One-Pan Lemon Garlic Chicken with Broccoli, Red Peppers, and Brown Rice (sheet-pan style)
+  Hook: Bright lemon, crispy edges, and a rainbow of veg all in one pan — minimal cleanup, big flavor. [web:4]
+
+- Lemony Chicken Thighs and Rice Skillet with Broccoli & Peppers
+  Hook: A cozy, one-pot lemony skillet that turns your five ingredients into a comforting weeknight dinner. [web:3]
+
+- Chicken and Rice with Broccoli (One-Pot)
+  Hook: Classic lemon-kissed chicken with broccoli and rice in one pot — simple, satisfying, and 30 minutes-ish. [web:1]
+
+Full Recipe: One-Pan Lemon Garlic Chicken with Broccoli, Red Peppers, and Brown Rice
+- Serves: 4 | Time: ~35-40 minutes
+- Ingredients used
+  - Chicken thighs: 4-6, skin-on or skinless, depending on preference
+  - Brown rice: 1 cup (uncooked)
+  - Broccoli florets: 2 cups
+  - Red bell pepper: 1 large, sliced
+  - Lemon: 1 large (zest + juice)
+  - Garlic: 2-3 cloves, minced
+  - Olive oil: 1-2 Tbsp
+  - Chicken broth: 2 1/2 cups (or water)
+  - Salt & pepper
+  - Optional: 1/2 tsp paprika or dried oregano for extra warmth
+- Steps
+  1) Preheat a large skillet with high sides over medium-high heat. Season chicken thighs with salt and pepper.
+  2) Add 1 Tbsp olive oil. Sear chicken 3-4 minutes per side until browned. Remove and set aside.
+  3) In the same pan, add the remaining oil, minced garlic, sliced red pepper, and broccoli. Sauté 2-3 minutes until the veg start to brighten and soften.
+  4) Stir in the brown rice, then pour in chicken broth. Bring to a simmer.
+  5) Return the chicken to the pan, nestling it into the rice. Cover and simmer about 25-30 minutes, or until the rice is tender and the chicken reaches 165°F (74°C).
+  6) Stir in lemon juice and zest. Adjust salt and pepper to taste. If you like, finish with an extra squeeze of lemon.
+- Nutrition snapshot (rough estimate per serving): 420-460 kcal, 25-30 g protein, 50-60 g carbs, 12-14 g fat (depends on chicken skin-on vs skinless and exact rice amount).
+- Source: Inspired by One-Pan Lemon Garlic/Roasted-veg concepts
+  - Primary inspiration: [web:4] Half Baked Harvest, Lemon Pepper Yogurt Chicken and Rice (sheet-pan vibe) and [web:1] Serious Eats-style one-pot chicken & rice with broccoli.
+
+Full Recipe: Lemony Chicken Thighs and Rice Skillet with Broccoli & Peppers
+- Serves: 4 | Time: ~30-40 minutes
+- Ingredients used
+  - Chicken thighs: 4
+  - Brown rice: 1 cup (or use par-cooked rice if you prefer)
+  - Broccoli: 2 cups florets
+  - Red pepper: 1, sliced
+  - Lemon: 1 (juice + zest)
+  - Garlic: 2 cloves, minced
+  - Olive oil: 1-2 Tbsp
+  - Chicken broth or water: 2 cups
+  - Salt & pepper
+- Steps
+  1) Season chicken with salt and pepper. Brown in a skillet with olive oil, 3-4 minutes per side. Remove.
+  2) In the same skillet, add garlic, peppers, and broccoli; sauté 2-3 minutes.
+  3) Add rice and broth; bring to a simmer. Return chicken on top, cover, and cook 15-20 minutes until rice is tender and chicken is cooked through.
+  4) Finish with lemon juice and zest, plus a pinch more salt if needed.
+- Nutrition snapshot (rough estimate per serving): 400-450 kcal, 25-30 g protein, 50-55 g carbs, 12-14 g fat.
+- Source: Inspired by lemony chicken-thigh + rice skillet concepts
+  - Primary inspiration: [web:3] Jenneatsgoood – Lemony Chicken Thighs and Rice
+
+Full Recipe: Chicken and Rice with Broccoli (One-Pot)
+- Serves: 4 | Time: ~35-40 minutes
+- Ingredients used
+  - Chicken thighs: 4
+  - Brown rice: 1 cup (dry)
+  - Broccoli florets: 2 cups
+  - Lemon: 1 (juice + zest)
+  - Onion or garlic as you like (optional)
+  - Chicken broth: 2 1/2 cups
+  - Olive oil or butter
+  - Salt & pepper
+- Steps
+  1) Brown chicken thighs in a sturdy pot; remove.
+  2) Sauté broccoli (and peppers if using) briefly, then add rice and broth.
+  3) Return chicken, simmer covered 25-30 minutes until rice is tender and chicken is cooked.
+  4) Finish with lemon juice and zest; season to taste.
+- Nutrition snapshot (rough estimate per serving): 420 kcal, ~28 g protein, ~55 g carbs, 12 g fat.
+- Source: Classic one-pot lemony chicken and rice with broccoli
+  - Primary inspiration: [web:1] Serious Eats – Chicken and Rice with Broccoli
+
+Tips
+- Storage: Cool completely, then refrigerate in airtight containers up to 3-4 days. Reheat gently in the microwave or a skillet with a splash of broth.
+- Swaps:
+  - Use chicken breasts if you prefer; adjust cooking time.
+  - If you don’t have brown rice, use par-cooked white rice or red rice.
+  - Swap red peppers for yellow/green peppers or use a mix.
+- Make it lighter: use skinless chicken thighs and a little less oil; add extra lemon juice for brightness.
+
+Which to try first? I can tailor one exactly to your taste (e.g., more lemon, less pepper, dairy-free, etc.). More ingredients you want to use up, or any dietary needs?
+
+[HUMAN]
+Do you think I could add a sauce to the first recipe? What would you suggest?
+
+[AI]
+Yes—a sauce will elevate that first recipe. Here are four quick sauce ideas that pair beautifully with lemon-garlic chicken, broccoli, red peppers, and brown rice. Each stays simple and uses pantry-friendly ingredients.
+
+1) Creamy Lemon-Garlic Pan Sauce
+- Flavor: bright lemon with velvety garlic notes.
+- What you need (approx): butter or olive oil, 2 cloves garlic, 1 lemon (juice + zest), 1/2–1 cup chicken broth, splash of cream or yogurt (optional).
+- How to use: after you sear the chicken, remove it. In the same pan, melt butter, add minced garlic 30 seconds, pour in broth and lemon juice, simmer 2–3 minutes. Stir in a little cream or yogurt off heat if you like it extra creamy. Return chicken and veggies to coat.
+
+2) Honey-Garlic Soy Glaze
+- Flavor: savory-sweet glaze with a zing from garlic and lemon zest.
+- What you need (approx): 2 Tbsp soy sauce, 1–2 Tbsp honey (or brown sugar), 1–2 cloves garlic, optional ginger, a pinch of lemon zest.
+- How to use: whisk the glaze and simmer a couple minutes until glossy. Brush over the chicken and toss the broccoli/peppers in during the last 3–5 minutes to glaze. If you want it thicker, whisk in a 1 tsp cornstarch slurry.
+
+3) Tahini-Lemon Drizzle (dairy-free option)
+- Flavor: nutty, tangy, creamy without dairy.
+- What you need (approx): 2–3 Tbsp tahini, 2–3 Tbsp lemon juice, water to thin, 1 small garlic clove, pinch of salt, chili flakes (optional).
+- How to use: whisk until smooth with enough water to reach a pourable sauce. Drizzle over plated dish or toss with the chicken and veggies right before serving.
+
+4) Mustard-Yogurt Dill Sauce (bright and tangy)
+- Flavor: tangy, creamy, herby.
+- What you need (approx): 1/2 cup Greek yogurt (or dairy-free yogurt), 1–2 Tbsp lemon juice, 1–2 tsp Dijon mustard, fresh dill or parsley, salt and pepper.
+- How to use: whisk together and serve on the side or spoon a dollop over the chicken and veg. If dairy-free, swap in dairy-free yogurt.
+
+Quick tips to add the sauce to the first recipe
+- Do the sauce in the final 5–7 minutes of cooking so flavors stay bright and the chicken stays tender.
+- If you’re using a glaze (Option 2), you can brush it on during the last few minutes and let it reduce a bit for a sticky coating.
+- Taste and adjust: more lemon for brightness, more salt if needed, or a touch of honey if you want more sweetness.
+
+Which one sounds best to you, or would you like a dairy-free, gluten-free, or milder/creamier version? Want me to tailor a specific sauce to any other ingredients you have? Which to try? More ingredients?
+
